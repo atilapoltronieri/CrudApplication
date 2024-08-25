@@ -1,0 +1,12 @@
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\bin\Debug\net8.0\CrudApplication.Core.deps.json
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\bin\Debug\net8.0\CrudApplication.Core.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\bin\Debug\net8.0\CrudApplication.Core.pdb
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.csproj.AssemblyReference.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.AssemblyInfoInputs.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.AssemblyInfo.cs
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\refint\CrudApplication.Core.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\CrudApplication.Core.pdb
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Core\obj\Debug\net8.0\ref\CrudApplication.Core.dll

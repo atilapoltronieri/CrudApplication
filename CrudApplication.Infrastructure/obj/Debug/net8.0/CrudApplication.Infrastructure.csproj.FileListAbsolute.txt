@@ -1,0 +1,17 @@
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\bin\Debug\net8.0\CrudApplication.Infrastructure.deps.json
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\bin\Debug\net8.0\CrudApplication.Infrastructure.runtimeconfig.json
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\bin\Debug\net8.0\CrudApplication.Infrastructure.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\bin\Debug\net8.0\CrudApplication.Infrastructure.pdb
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\bin\Debug\net8.0\CrudApplication.Core.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\bin\Debug\net8.0\CrudApplication.Core.pdb
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudAppl.5A7B83DE.Up2Date
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\refint\CrudApplication.Infrastructure.dll
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.pdb
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\CrudApplication.Infrastructure.genruntimeconfig.cache
+C:\Users\abpol\OneDrive\Documentos\Sample\CrudApplication\CrudApplication.Infrastructure\obj\Debug\net8.0\ref\CrudApplication.Infrastructure.dll
